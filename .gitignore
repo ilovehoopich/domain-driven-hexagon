@@ -38,5 +38,10 @@ lerna-debug.log*
 # !.vscode/launch.json
 # !.vscode/extensions.json
 
+<<<<<<< HEAD
 hu
 bob
+=======
+zhuh
+boba
+>>>>>>> branch1
